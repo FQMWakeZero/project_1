@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8150ac6c9cf4c4495daf66be9fe09b, type: 3}
+  m_Name: spearman
+  m_EditorClassIdentifier: 
+  card: {fileID: 584073995446237380, guid: 69307ddf9cd692c4cabbc4fa2b2c57d0, type: 3}
+  soldier: {fileID: 1908788513584080636, guid: 76fcf49ac93a16646b73a647e268c698, type: 3}
+  saveName: "\u6295\u77DB\u624B"
+  Id: 9
+  life: 3
+  armour: 0
+  use_cereal: 0
+  stay_cereal: 0
+  damage: 6
+  damage_way: 0
+  move_way: 76
+  move_step: 3
+  buff_id: 0
+  damage_x: 00000000
+  damage_y: 02000000

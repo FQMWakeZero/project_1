@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d7c246aa283ad4193641e318dbd22d, type: 3}
+  m_Name: Data_all
+  m_EditorClassIdentifier: 
+  data_Soldiers:
+  - {fileID: 11400000, guid: e50fb477ec52e624ea70a5f2c940b61d, type: 2}
+  - {fileID: 11400000, guid: 1b5fcfaa0d144b4458af42b1d4026b49, type: 2}
+  - {fileID: 11400000, guid: 28e97828b4b9eae42b1bbd9035e77530, type: 2}
+  - {fileID: 11400000, guid: 0bd1a536582610c43820a11682f4672d, type: 2}
+  - {fileID: 11400000, guid: 73ea188fd06b638439dc034c98d74efc, type: 2}
+  - {fileID: 11400000, guid: 66dc91f07f43242408a61e130e8fcede, type: 2}
+  - {fileID: 11400000, guid: 52bb2b500bce3c74ab89fa35e2e067ab, type: 2}
+  - {fileID: 11400000, guid: a480f2972a440bf45b2ae44352dd60d8, type: 2}
+  - {fileID: 11400000, guid: 5e0e3c62f43eeec45b1431d714d59095, type: 2}

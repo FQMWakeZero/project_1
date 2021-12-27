@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba8150ac6c9cf4c4495daf66be9fe09b, type: 3}
+  m_Name: crossbowman
+  m_EditorClassIdentifier: 
+  card: {fileID: 584073995446237380, guid: 69307ddf9cd692c4cabbc4fa2b2c57d0, type: 3}
+  soldier: {fileID: 1908788513584080636, guid: 76fcf49ac93a16646b73a647e268c698, type: 3}
+  saveName: "\u5F29\u7BAD\u5175"
+  Id: 5
+  life: 2
+  armour: 0
+  use_cereal: 0
+  stay_cereal: 0
+  damage: 4
+  damage_way: 1
+  move_way: 76
+  move_step: 2
+  buff_id: 0
+  damage_x: ffffffff0000000001000000
+  damage_y: 020000000200000002000000
